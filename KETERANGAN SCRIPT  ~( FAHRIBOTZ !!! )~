@@ -12,13 +12,13 @@ RECODE = RIFQI BOTZ ( JAMET KUDASI )
    => PKG INSTALL FFMPEG
    => PKG INSTALL IMAGEMAGICK
    => PKG INSTALL BASH
+   => PKG INSTALL LIBWEBP
    => PKG INSTALL GIT
    => PKG INSTALL MC
    => TERMUX-SETUP-STORAGE
-   => GIT CLONE https://github.com
-   => CP -R NAMA FILE /$HOME
+   => GIT CLONE https://github.com/BOTZ4YOU/FahriBotzWaV3
    => CD
-   => CD NAMA FILE
+   => CD FahriBotzWaV3
    => BASH INSTALL.SH
    => NPM START
 
