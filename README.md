@@ -7,6 +7,9 @@ SIMPLE WA BOT
 ## TO CHANGE YOUR SESSION *(NOTE: MAKE SURE YOUR BOTS HAVE BEEN INSTALLED BEFORE USING TERMUX!!)(DON'T FORGET TO FORK FIRST, BY USING THE DESKTOP VIEW!!)*
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/Ziyx.json)
 
+## BUAT GANTI FITUR/UBAH FITUR
+[KLICK HERE](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/Aldi.js)
+
 ## UNTUK GANTI FOTO THUMB BOT/FAKE BOTNYA,JNGAN LU PKE FOTO CWE GW AJG🗿
 BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI,
 BUAT GANTI THUMB BOTNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/thumb.jpeg) INI,
