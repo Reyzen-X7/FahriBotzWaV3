@@ -15,7 +15,7 @@ SIMPLE WA BOT
 
 ```
 
-> nodeajs
+> nodejs
 
 > https://github.com/BOTZ4YOU/heroku-buildpack-ffmpeg-latest
 
