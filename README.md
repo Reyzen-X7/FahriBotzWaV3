@@ -10,7 +10,8 @@ SIMPLE WA BOT
 ## BUAT GANTI FITUR YNG MSIH ADA NMA GUA🐦
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/ALDI.js)
 
-## BUAT ADD BUILDPACK KE HEROKU1. Add Buildpack<br/>
+## BUAT ADD BUILDPACK KE HEROKU
+1. Add Buildpack<br/>
 
 ```
 
