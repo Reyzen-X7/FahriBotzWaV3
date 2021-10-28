@@ -8,7 +8,7 @@ SIMPLE WA BOT
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/Ziyx.json)
 
 ## BUAT GANTI FITUR/UBAH FITUR
-[KLICK HERE](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/Aldi.js)
+[Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/ALDI.js)
 
 ## UNTUK GANTI FOTO THUMB BOT/FAKE BOTNYA,JNGAN LU PKE FOTO CWE GW AJG🗿
 BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI,
