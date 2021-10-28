@@ -10,8 +10,28 @@ SIMPLE WA BOT
 ## BUAT GANTI FITUR YNG MSIH ADA NMA GUA🐦
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/ALDI.js)
 
-## BUAT ADD BUILDPACK KE HEROKU
-(https://github.com/BOTZ4YOU/heroku-buildpack-ffmpeg-latest)
+## BUAT ADD BUILDPACK KE HEROKU1. Add Buildpack<br/>
+
+```
+
+> nodeajs
+
+> https://github.com/BOTZ4YOU/heroku-buildpack-ffmpeg-latest
+
+```
+
+2. Delpoy<br/>
+
+[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+
+3. Change Dyno<br/>
+
+<p align="center">
+
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+
+</p>
+
 
 ## UNTUK GANTI FOTO THUMB BOT/FAKE BOTNYA,JNGAN LU PKE FOTO CWE GW AJG🗿
 BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI,
