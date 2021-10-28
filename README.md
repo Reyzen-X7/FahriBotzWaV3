@@ -11,7 +11,7 @@ SIMPLE WA BOT
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/ALDI.js)
 
 ## BUAT ADD BUILDPACK KE HEROKU
-
+(https://github.com/BOTZ4YOU/heroku-buildpack-ffmpeg-latest)
 
 ## UNTUK GANTI FOTO THUMB BOT/FAKE BOTNYA,JNGAN LU PKE FOTO CWE GW AJG🗿
 BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI,
