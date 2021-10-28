@@ -8,8 +8,9 @@ SIMPLE WA BOT
 [Click Here](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/Ziyx.json)
 
 ## UNTUK GANTI FOTO THUMB BOT/FAKE BOTNYA,JNGAN LU PKE FOTO CWE GW AJG🗿
-BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI
-BUAT GANTI THUMB BOTNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/thumb.jpeg) INI
+BUAT GANTI FAKE REPLYNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/cewe.jpeg) INI,
+BUAT GANTI THUMB BOTNYA [KLICK](https://github.com/BOTZ4YOU/FahriBotzWaV3/blob/master/image/thumb.jpeg) INI,
+
 
 ## DI BACA DULU BANG!!
 SEBELUM LU GUNAIN NIH SCNYA,LU FORK DLU LAH KNTL,BIAR KGA KE UBAH SC ASLINYA,CARA FORK?
