@@ -40,7 +40,7 @@ nocache('./ALDI.js', module => console.log(`${module} is now updated!`))
 
 const starts = async (ALDI = new WAConnection()) => {
     ALDI.logger.level = 'warn'
-    ALDI.version = [2, 2123, 8]
+    ALDI.version = [2,2143,3]
     ALDI.browserDescription = [ 'Abil Mengintai', '', '3.0' ]
     console.log(banner.string)
     ALDI.on('qr', () => {
